@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<password>
+  <admin>
+    <name>Admin@hotmail.com</name>
+    <password>admin</password>
+  </admin>
+  <admin>
+    <name>SuperAdmin@hotmail.com</name>
+    <password>SuperAdmin</password>
+  </admin>
+  <admin>
+    <name>a1@a1.com</name>
+    <password>a1</password>
+  </admin>
+	<admin>
+		<name>GlowHaven@gmail.com</name>
+		<password>gh</password>
+	</admin>
+</password>
